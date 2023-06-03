@@ -1,0 +1,19 @@
+{
+    "sender":{
+        "name":"raja",
+        "amount":"12000"
+    },
+    "reciever":{
+        "name":"ramesh",
+        "amount":"7000"
+    }
+}
+                         
+Mail sending Formate
+
+{
+    "recipient" : "dhinesh5y@gmail.com",
+    "msgBody" : "Hi,  \n\n     This is Sample Mail. sent from spring boot application method. Here i have attached one file. \n\n thanks",
+    "subject" : "Regarding - test",
+    "attachment" : "C://Users//Windows//Pictures//Screenshots//Screenshot_20230223_132850.png"
+}
